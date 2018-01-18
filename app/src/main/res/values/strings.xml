@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Current Location</string>
+    <string name="google_maps_key"
+            templateMergeStrategy="preserve"
+            translatable="false">
+             여기에 Google Map 개발자 키를 등록하세요
+             (개발자콘솔에서 본 앱의 package명도 등록하세요)
+    </string>
+</resources>
